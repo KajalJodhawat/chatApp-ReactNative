@@ -1,0 +1,49 @@
+{
+    "telemetry.machineId": "9f2dd92a4339b13a82b64a2fd678003b003932823bfb14f55f390437b4e07aa9",
+    "openedPathsList": {
+        "entries": [
+            {
+                "folderUri": "file:///f%3A/SEM-VII%287%29/ReactNative/chatApplication"
+            }
+        ]
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///f%3A/SEM-VII%287%29/ReactNative/chatApplication",
+            "backupPath": "F:\\SEM-VII(7)\\ReactNative\\chatApplication\\PATH_TO_SOME_FOLDER_WHERE_VSCODE_WILL_STORE_TMP_DATA\\Backups\\2180ca4adc373619c51dcb454508c8be",
+            "uiState": {
+                "mode": 0,
+                "x": 171,
+                "y": 0,
+                "width": 1024,
+                "height": 728
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 30,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "pickerWorkingDir": "F:\\SEM-VII(7)\\ReactNative"
+}

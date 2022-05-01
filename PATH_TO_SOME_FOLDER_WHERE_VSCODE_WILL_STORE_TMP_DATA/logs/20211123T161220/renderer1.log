@@ -1,0 +1,12 @@
+[2021-11-23 16:12:55.094] [renderer1] [info] Starting extension host with pid 19564.
+[2021-11-23 16:12:55.095] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 280 ms.
+[2021-11-23 16:13:02.912] [renderer1] [error] [Extension Host] (node:19564) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-11-23 16:13:11.972] [renderer1] [info] Enabling inspect port on extension host with pid 19564.
+[2021-11-23 16:13:23.515] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 7144.474ms, saved PROFILE here: 'file:///c%3A/Users/MYPC~1/AppData/Local/Temp/exthost-31cd0b.cpuprofile' [{"id":"ritwickdey.LiveServer","total":7144108,"percentage":100}]
+[2021-11-23 16:14:00.435] [renderer1] [info] Starting extension host with pid 20728.
+[2021-11-23 16:14:00.436] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 40 ms.
+[2021-11-23 16:14:01.625] [renderer1] [error] [Extension Host] (node:20728) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+[2021-11-23 16:15:38.121] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2021-11-23 17:17:05.627] [renderer1] [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

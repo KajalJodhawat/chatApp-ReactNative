@@ -1,0 +1,2 @@
+[2021-11-23 16:13:01.785] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-23 16:13:07.149] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles

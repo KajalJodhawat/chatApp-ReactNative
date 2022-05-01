@@ -1,0 +1,9 @@
+file:///f%3A/SEM-VII%287%29/ReactNative/chatApplication/Components/Chat.js {"mtime":1637664512371,"ctime":1637664512371,"size":0,"etag":"37r5ipfhm0","orphaned":false,"typeId":""}
+import React from "react";
+import { GiftedChat } from "react-native-gifted-chat";
+
+export default class Chat extends React.Component{
+    render(){
+        return <GiftedChat/>;
+    }
+}

@@ -1,0 +1,6 @@
+file:///f%3A/SEM-VII%287%29/ReactNative/chatApplication/App.js {"mtime":499162500000,"ctime":1637653107982,"size":481,"etag":"sr54e8m0fg","orphaned":false,"typeId":""}
+import {createStackNavigator} from 'react-navigation';
+import Chat from './Components/Chat';
+export default createStackNavigator({
+  Chat: {screen: Chat}
+});

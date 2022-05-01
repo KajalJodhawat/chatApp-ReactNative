@@ -1,0 +1,40 @@
+[2021-11-23 16:13:07.595] [exthost] [info] Extension host with pid 19564 started
+[2021-11-23 16:13:08.078] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-23 16:13:08.575] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-23 16:13:08.741] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-23 16:13:09.072] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: true, activationEvent: '*'
+[2021-11-23 16:13:53.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 16:13:53.975] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 16:13:54.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-23 16:13:55.042] [exthost] [info] Eager extensions activated
+[2021-11-23 16:13:55.081] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-23 16:13:57.287] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-23 16:13:57.309] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.i [as canceled] (c:\Users\My PC\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:5:1157)
+	at n._remoteCall (c:\Users\My PC\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:98:13876)
+	at Proxy.N.<computed>.F.charCodeAt.N.<computed> (c:\Users\My PC\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:98:10271)
+	at u.resolveProxy (c:\Users\My PC\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:98:39347)
+	at Object.resolveProxy (c:\Users\My PC\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:103:58426)
+	at useProxySettings (c:\Users\My PC\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:159:16)
+	at c:\Users\My PC\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:107:13
+	at c:\Users\My PC\AppData\Local\Programs\Microsoft VS Code\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:335:13
+	at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-11-23 16:13:58.305] [exthost] [info] Extension host with pid 19564 exiting with code 0
+[2021-11-23 16:14:02.853] [exthost] [info] Extension host with pid 20728 started
+[2021-11-23 16:14:02.855] [exthost] [info] Skipping acquiring lock for f:\SEM-VII(7)\ReactNative\chatApplication\PATH_TO_SOME_FOLDER_WHERE_VSCODE_WILL_STORE_TMP_DATA\User\workspaceStorage\249e8805e9ab27ece3efd87248e60b4f.
+[2021-11-23 16:14:03.153] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-23 16:14:03.172] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-23 16:14:03.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-23 16:14:03.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2021-11-23 16:14:05.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-23 16:14:05.659] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: '*'
+[2021-11-23 16:14:07.607] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-23 16:14:07.744] [exthost] [info] Eager extensions activated
+[2021-11-23 16:14:07.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 16:14:07.779] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-23 16:14:55.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-11-23 16:52:54.660] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-23 16:52:54.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-23 16:52:55.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-23 17:17:07.653] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-23 17:17:18.117] [exthost] [info] Extension host with pid 20728 exiting with code 0
